@@ -126,7 +126,7 @@ let heroBtn = document.querySelector(".overlay button");
 
 heroBtn.onclick = function(){
 
-    alert("Welcome To Bright Future School 🚀");
+    alert("Welcome To Sacred Heart School 🚀");
 
 };
 
